@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session001_FirstSteps", "Session001_FirstSteps\Session001_FirstSteps.csproj", "{311697D9-7AD4-4142-988E-E023675EF640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session002_ArraysAndLoops", "ConsoleApp1\Session002_ArraysAndLoops.csproj", "{43ED1F0C-E02A-4424-A3B1-6648B321C051}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session003_ConditionalsAndExceptionHandling", "Session003_ConditionalsAndExceptionHandling\Session003_ConditionalsAndExceptionHandling.csproj", "{CA32C7CB-D647-42DB-B990-43BB663E0F9B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session004_MethodsAndEnums", "Session004_MethodsAndEnums\Session004_MethodsAndEnums.csproj", "{F9B6B176-2F3F-4418-AF2F-7F22FD961037}"
@@ -23,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session008_OOPGame", "Sessi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session009_AbstractClassPolymorphism", "Session009_AbstractClassPolymorphism\Session009_AbstractClassPolymorphism.csproj", "{14FCC8C5-6D7B-4B04-8212-054C16302471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session002_ArraysAndLoops", "Session002_ArraysAndLoops\Session002_ArraysAndLoops.csproj", "{43ED1F0C-E02A-4424-A3B1-6648B321C051}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,10 +33,6 @@ Global
 		{311697D9-7AD4-4142-988E-E023675EF640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{311697D9-7AD4-4142-988E-E023675EF640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{311697D9-7AD4-4142-988E-E023675EF640}.Release|Any CPU.Build.0 = Release|Any CPU
-		{43ED1F0C-E02A-4424-A3B1-6648B321C051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43ED1F0C-E02A-4424-A3B1-6648B321C051}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43ED1F0C-E02A-4424-A3B1-6648B321C051}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43ED1F0C-E02A-4424-A3B1-6648B321C051}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CA32C7CB-D647-42DB-B990-43BB663E0F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CA32C7CB-D647-42DB-B990-43BB663E0F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA32C7CB-D647-42DB-B990-43BB663E0F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +65,10 @@ Global
 		{14FCC8C5-6D7B-4B04-8212-054C16302471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14FCC8C5-6D7B-4B04-8212-054C16302471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14FCC8C5-6D7B-4B04-8212-054C16302471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43ED1F0C-E02A-4424-A3B1-6648B321C051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ED1F0C-E02A-4424-A3B1-6648B321C051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ED1F0C-E02A-4424-A3B1-6648B321C051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ED1F0C-E02A-4424-A3B1-6648B321C051}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
