@@ -1,0 +1,5 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Test\bin\Debug\Test.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Test\bin\Debug\Test.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Test\bin\Debug\Test.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Test\obj\Debug\Test.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Test\obj\Debug\Test.pdb

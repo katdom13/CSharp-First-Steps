@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session005_ClassesAndOOP\bin\Debug\Session005_ClassesAndOOP.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session005_ClassesAndOOP\bin\Debug\Session005_ClassesAndOOP.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session005_ClassesAndOOP\bin\Debug\Session005_ClassesAndOOP.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session005_ClassesAndOOP\obj\Debug\Session005_ClassesAndOOP.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session005_ClassesAndOOP\obj\Debug\Session005_ClassesAndOOP.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session005_ClassesAndOOP\obj\Debug\Session005_ClassesAndOOP.pdb

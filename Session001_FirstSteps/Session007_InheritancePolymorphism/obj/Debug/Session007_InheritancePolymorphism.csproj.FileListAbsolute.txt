@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session007_InheritancePolymorphism\bin\Debug\Session007_InheritancePolymorphism.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session007_InheritancePolymorphism\bin\Debug\Session007_InheritancePolymorphism.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session007_InheritancePolymorphism\bin\Debug\Session007_InheritancePolymorphism.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session007_InheritancePolymorphism\obj\Debug\Session007_InheritancePolymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session007_InheritancePolymorphism\obj\Debug\Session007_InheritancePolymorphism.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session007_InheritancePolymorphism\obj\Debug\Session007_InheritancePolymorphism.pdb

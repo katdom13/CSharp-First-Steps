@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\ConsoleApp1\obj\Debug\Session002_ArraysAndLoops.csprojResolveAssemblyReference.cache

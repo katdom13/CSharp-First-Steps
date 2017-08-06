@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session009_AbstractClassPolymorphism\bin\Debug\Session009_AbstractClassPolymorphism.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session009_AbstractClassPolymorphism\bin\Debug\Session009_AbstractClassPolymorphism.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session009_AbstractClassPolymorphism\bin\Debug\Session009_AbstractClassPolymorphism.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session009_AbstractClassPolymorphism\obj\Debug\Session009_AbstractClassPolymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session009_AbstractClassPolymorphism\obj\Debug\Session009_AbstractClassPolymorphism.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session009_AbstractClassPolymorphism\obj\Debug\Session009_AbstractClassPolymorphism.pdb

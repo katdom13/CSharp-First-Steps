@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session006_ControlAccess_GettersAndSetters\bin\Debug\Session006_ControlAccess_GettersAndSetters.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session006_ControlAccess_GettersAndSetters\bin\Debug\Session006_ControlAccess_GettersAndSetters.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session006_ControlAccess_GettersAndSetters\bin\Debug\Session006_ControlAccess_GettersAndSetters.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session006_ControlAccess_GettersAndSetters\obj\Debug\Session006_ControlAccess_GettersAndSetters.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session006_ControlAccess_GettersAndSetters\obj\Debug\Session006_ControlAccess_GettersAndSetters.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session006_ControlAccess_GettersAndSetters\obj\Debug\Session006_ControlAccess_GettersAndSetters.pdb

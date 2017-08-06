@@ -1,0 +1,6 @@
+c:\users\kat mem\documents\visual studio 2017\Projects\Session001_FirstSteps\Session001_FirstSteps\bin\Debug\Session001_FirstSteps.exe.config
+c:\users\kat mem\documents\visual studio 2017\Projects\Session001_FirstSteps\Session001_FirstSteps\bin\Debug\Session001_FirstSteps.exe
+c:\users\kat mem\documents\visual studio 2017\Projects\Session001_FirstSteps\Session001_FirstSteps\bin\Debug\Session001_FirstSteps.pdb
+c:\users\kat mem\documents\visual studio 2017\Projects\Session001_FirstSteps\Session001_FirstSteps\obj\Debug\Session001_FirstSteps.csprojResolveAssemblyReference.cache
+c:\users\kat mem\documents\visual studio 2017\Projects\Session001_FirstSteps\Session001_FirstSteps\obj\Debug\Session001_FirstSteps.exe
+c:\users\kat mem\documents\visual studio 2017\Projects\Session001_FirstSteps\Session001_FirstSteps\obj\Debug\Session001_FirstSteps.pdb

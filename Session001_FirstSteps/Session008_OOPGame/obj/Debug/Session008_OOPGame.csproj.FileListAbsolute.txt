@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session008_OOPGame\bin\Debug\Session008_OOPGame.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session008_OOPGame\bin\Debug\Session008_OOPGame.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session008_OOPGame\bin\Debug\Session008_OOPGame.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session008_OOPGame\obj\Debug\Session008_OOPGame.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session008_OOPGame\obj\Debug\Session008_OOPGame.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session008_OOPGame\obj\Debug\Session008_OOPGame.pdb

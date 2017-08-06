@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session004_MethodsAndEnums\bin\Debug\Session004_MethodsAndEnums.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session004_MethodsAndEnums\bin\Debug\Session004_MethodsAndEnums.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session004_MethodsAndEnums\bin\Debug\Session004_MethodsAndEnums.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session004_MethodsAndEnums\obj\Debug\Session004_MethodsAndEnums.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session004_MethodsAndEnums\obj\Debug\Session004_MethodsAndEnums.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session004_MethodsAndEnums\obj\Debug\Session004_MethodsAndEnums.pdb

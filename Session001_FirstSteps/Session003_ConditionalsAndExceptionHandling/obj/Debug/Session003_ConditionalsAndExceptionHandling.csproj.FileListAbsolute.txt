@@ -1,0 +1,5 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session003_ConditionalsAndExceptionHandling\bin\Debug\Session003_ConditionalsAndExceptionHandling.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session003_ConditionalsAndExceptionHandling\bin\Debug\Session003_ConditionalsAndExceptionHandling.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session003_ConditionalsAndExceptionHandling\bin\Debug\Session003_ConditionalsAndExceptionHandling.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session003_ConditionalsAndExceptionHandling\obj\Debug\Session003_ConditionalsAndExceptionHandling.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session003_ConditionalsAndExceptionHandling\obj\Debug\Session003_ConditionalsAndExceptionHandling.pdb
