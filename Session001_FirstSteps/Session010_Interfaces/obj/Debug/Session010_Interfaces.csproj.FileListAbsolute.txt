@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session010_Interfaces\bin\Debug\Session010_Interfaces.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session010_Interfaces\bin\Debug\Session010_Interfaces.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session010_Interfaces\bin\Debug\Session010_Interfaces.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session010_Interfaces\obj\Debug\Session010_Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session010_Interfaces\obj\Debug\Session010_Interfaces.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session010_Interfaces\obj\Debug\Session010_Interfaces.pdb

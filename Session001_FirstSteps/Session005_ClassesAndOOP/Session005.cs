@@ -75,7 +75,8 @@ namespace Session005_ClassesAndOOP
 
             dog.name = "Manta";
             Console.WriteLine(fox.name);
-            Animal.GetNumAnimals();
+            Console.WriteLine();
+            Console.WriteLine("Current # of animals: {0}", Animal.GetNumAnimals());
 
             //STATIC UTILITY CLASS
             Console.WriteLine();
