@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\bin\Debug\Session011_Collections.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\bin\Debug\Session011_Collections.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\bin\Debug\Session011_Collections.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.pdb
