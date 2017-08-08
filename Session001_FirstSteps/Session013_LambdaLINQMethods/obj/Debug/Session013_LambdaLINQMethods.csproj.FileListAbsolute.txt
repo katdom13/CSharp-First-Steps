@@ -1,0 +1,6 @@
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session013_LambdaLINQMethods\bin\Debug\Session013_LambdaLINQMethods.exe.config
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session013_LambdaLINQMethods\bin\Debug\Session013_LambdaLINQMethods.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session013_LambdaLINQMethods\bin\Debug\Session013_LambdaLINQMethods.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session013_LambdaLINQMethods\obj\Debug\Session013_LambdaLINQMethods.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session013_LambdaLINQMethods\obj\Debug\Session013_LambdaLINQMethods.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session013_LambdaLINQMethods\obj\Debug\Session013_LambdaLINQMethods.csprojResolveAssemblyReference.cache
