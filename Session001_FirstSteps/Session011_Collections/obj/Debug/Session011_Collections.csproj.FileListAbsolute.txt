@@ -4,3 +4,9 @@ C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Ses
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.csprojResolveAssemblyReference.cache
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.exe
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session011_Collections\bin\Debug\Session011_Collections.exe.config
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session011_Collections\bin\Debug\Session011_Collections.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session011_Collections\bin\Debug\Session011_Collections.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.csprojResolveAssemblyReference.cache
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session011_Collections\obj\Debug\Session011_Collections.pdb

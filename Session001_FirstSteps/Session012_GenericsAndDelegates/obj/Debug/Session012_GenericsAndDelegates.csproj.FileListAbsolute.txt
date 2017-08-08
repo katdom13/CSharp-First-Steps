@@ -1,0 +1,6 @@
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session012_GenericsAndDelegates\bin\Debug\Session012_GenericsAndDelegates.exe.config
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session012_GenericsAndDelegates\bin\Debug\Session012_GenericsAndDelegates.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session012_GenericsAndDelegates\bin\Debug\Session012_GenericsAndDelegates.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session012_GenericsAndDelegates\obj\Debug\Session012_GenericsAndDelegates.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session012_GenericsAndDelegates\obj\Debug\Session012_GenericsAndDelegates.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session012_GenericsAndDelegates\obj\Debug\Session012_GenericsAndDelegates.csprojResolveAssemblyReference.cache
