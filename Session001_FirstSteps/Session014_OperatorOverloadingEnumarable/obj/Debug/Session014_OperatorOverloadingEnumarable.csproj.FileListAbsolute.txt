@@ -1,0 +1,6 @@
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session014_OperatorOverloadingEnumarable\bin\Debug\Session014_OperatorOverloadingEnumarable.exe.config
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session014_OperatorOverloadingEnumarable\bin\Debug\Session014_OperatorOverloadingEnumarable.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session014_OperatorOverloadingEnumarable\bin\Debug\Session014_OperatorOverloadingEnumarable.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session014_OperatorOverloadingEnumarable\obj\Debug\Session014_OperatorOverloadingEnumarable.csprojResolveAssemblyReference.cache
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session014_OperatorOverloadingEnumarable\obj\Debug\Session014_OperatorOverloadingEnumarable.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session014_OperatorOverloadingEnumarable\obj\Debug\Session014_OperatorOverloadingEnumarable.pdb

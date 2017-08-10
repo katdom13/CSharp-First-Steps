@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session012_GenericsAndDeleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session013_LambdaLINQMethods", "Session013_LambdaLINQMethods\Session013_LambdaLINQMethods.csproj", "{7D3F1B9C-FF45-441E-9EAB-F997C72074EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session014_OperatorOverloadingEnumarable", "Session014_OperatorOverloadingEnumarable\Session014_OperatorOverloadingEnumarable.csproj", "{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{7D3F1B9C-FF45-441E-9EAB-F997C72074EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D3F1B9C-FF45-441E-9EAB-F997C72074EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D3F1B9C-FF45-441E-9EAB-F997C72074EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
