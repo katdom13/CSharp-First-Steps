@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session015_LINQ\bin\Debug\Session015_LINQ.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session015_LINQ\bin\Debug\Session015_LINQ.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session015_LINQ\bin\Debug\Session015_LINQ.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session015_LINQ\obj\Debug\Session015_LINQ.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session015_LINQ\obj\Debug\Session015_LINQ.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session015_LINQ\obj\Debug\Session015_LINQ.csprojResolveAssemblyReference.cache

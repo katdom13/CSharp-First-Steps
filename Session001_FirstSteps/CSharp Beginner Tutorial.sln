@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session013_LambdaLINQMethod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session014_OperatorOverloadingEnumarable", "Session014_OperatorOverloadingEnumarable\Session014_OperatorOverloadingEnumarable.csproj", "{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session015_LINQ", "Session015_LINQ\Session015_LINQ.csproj", "{B0EE90B3-DCDC-4537-979F-EF78C2CD4D8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5926C453-C9F9-4EBF-9DFA-5C835A3D47EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EE90B3-DCDC-4537-979F-EF78C2CD4D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EE90B3-DCDC-4537-979F-EF78C2CD4D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EE90B3-DCDC-4537-979F-EF78C2CD4D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EE90B3-DCDC-4537-979F-EF78C2CD4D8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

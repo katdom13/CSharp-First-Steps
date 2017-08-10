@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace Session014_OperatorOverloadingEnumarable
 {
     //this class is going to be used
-    //as ana example for operator overloading
+    //as an example for operator overloading
     class Box
     {
         public double Height { get; set; }
-        public double Width { get; set; }
+        public double Length { get; set; }
         public double Breadth { get; set; }
 
         public Box()
@@ -20,7 +20,7 @@ namespace Session014_OperatorOverloadingEnumarable
         public Box(int height, int length, int breadth)
         {
             Height = height;
-            Width = Width;
+            Length = length;
             Breadth = breadth;
         }
 
@@ -40,7 +40,7 @@ namespace Session014_OperatorOverloadingEnumarable
             Box totalBox = new Box()
             {
                 Height = box1.Height + box2.Height,
-                Width = box1.Width + box2.Width,
+                Length = box1.Length + box2.Length,
                 Breadth = box1.Breadth + box2.Breadth
             };
 
@@ -52,7 +52,7 @@ namespace Session014_OperatorOverloadingEnumarable
             Box diffBox = new Box()
             {
                 Height = box1.Height - box2.Height,
-                Width = box1.Width - box2.Width,
+                Length = box1.Length - box2.Length,
                 Breadth = box1.Breadth - box2.Breadth
             };
             return diffBox;
@@ -62,7 +62,7 @@ namespace Session014_OperatorOverloadingEnumarable
         public static bool operator ==(Box box1, Box box2)
         {
             if ((box1.Height == box2.Height) &&
-                (box1.Width == box2.Width) &&
+                (box1.Length == box2.Length) &&
                 (box1.Breadth == box2.Breadth))
             {
                 return true;
@@ -76,7 +76,7 @@ namespace Session014_OperatorOverloadingEnumarable
         public static bool operator !=(Box box1, Box box2)
         {
             if ((box1.Height != box2.Height) ||
-                (box1.Width != box2.Width) ||
+                (box1.Length != box2.Length) ||
                 (box1.Breadth != box2.Breadth))
             {
                 return true;
@@ -91,7 +91,7 @@ namespace Session014_OperatorOverloadingEnumarable
         //to override the ToString() method
         public override string ToString()
         {
-            return $"Box with height:{Height}, width:{Width}, breadth:{Breadth}";
+            return $"Box with height:{Height}, length:{Length}, breadth:{Breadth}";
         }
 
     }
