@@ -1,0 +1,6 @@
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session016_Threads\bin\Debug\Session016_Threads.exe.config
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session016_Threads\bin\Debug\Session016_Threads.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session016_Threads\bin\Debug\Session016_Threads.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session016_Threads\obj\Debug\Session016_Threads.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session016_Threads\obj\Debug\Session016_Threads.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session016_Threads\obj\Debug\Session016_Threads.pdb
