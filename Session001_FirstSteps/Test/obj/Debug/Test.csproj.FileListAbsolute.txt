@@ -3,3 +3,7 @@ C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Tes
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Test\bin\Debug\Test.pdb
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Test\obj\Debug\Test.exe
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\Session001_FirstSteps\Test\obj\Debug\Test.pdb
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Test\obj\Debug\Test.exe
+C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Test\obj\Debug\Test.pdb

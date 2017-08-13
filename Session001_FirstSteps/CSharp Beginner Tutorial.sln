@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session015_LINQ", "Session0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session016_Threads", "Session016_Threads\Session016_Threads.csproj", "{9249242D-C995-43C8-BBD7-E24E940B1385}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session017_FileIO", "Session017_FileIO\Session017_FileIO.csproj", "{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{9249242D-C995-43C8-BBD7-E24E940B1385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9249242D-C995-43C8-BBD7-E24E940B1385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9249242D-C995-43C8-BBD7-E24E940B1385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
