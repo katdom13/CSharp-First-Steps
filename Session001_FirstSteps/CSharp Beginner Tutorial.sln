@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session016_Threads", "Sessi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session017_FileIO", "Session017_FileIO\Session017_FileIO.csproj", "{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session018_Serialization", "Session018_Serialization\Session018_Serialization.csproj", "{8B73AA99-F14D-4BA6-9CB5-51F3F9F7CEE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C275AFA-C341-4CE3-8AAD-1B6753B3330A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B73AA99-F14D-4BA6-9CB5-51F3F9F7CEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B73AA99-F14D-4BA6-9CB5-51F3F9F7CEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B73AA99-F14D-4BA6-9CB5-51F3F9F7CEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B73AA99-F14D-4BA6-9CB5-51F3F9F7CEE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

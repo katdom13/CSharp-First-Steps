@@ -4,3 +4,9 @@ C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session00
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session017_FileIO\obj\Debug\Session017_FileIO.exe
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session017_FileIO\obj\Debug\Session017_FileIO.pdb
 C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session017_FileIO\obj\Debug\Session017_FileIO.csprojResolveAssemblyReference.cache
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session017_FileIO\bin\Debug\Session017_FileIO.exe.config
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session017_FileIO\bin\Debug\Session017_FileIO.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session017_FileIO\bin\Debug\Session017_FileIO.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session017_FileIO\obj\Debug\Session017_FileIO.csprojResolveAssemblyReference.cache
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session017_FileIO\obj\Debug\Session017_FileIO.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session017_FileIO\obj\Debug\Session017_FileIO.pdb

@@ -1,0 +1,6 @@
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session018_Serialization\bin\Debug\Session018_Serialization.exe.config
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session018_Serialization\bin\Debug\Session018_Serialization.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session018_Serialization\bin\Debug\Session018_Serialization.pdb
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session018_Serialization\obj\Debug\Session018_Serialization.csprojResolveAssemblyReference.cache
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session018_Serialization\obj\Debug\Session018_Serialization.exe
+C:\Users\katdo\Source\Repos\CSharp-First-Steps\Session001_FirstSteps\Session018_Serialization\obj\Debug\Session018_Serialization.pdb

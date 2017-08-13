@@ -11,6 +11,9 @@ namespace Session017_FileIO
     {
         static void Main(string[] args)
         {
+
+            #region Directory Operations
+
             //DIRECTORY OPERATIONS
 
             //get access to current directory
@@ -24,8 +27,12 @@ namespace Session017_FileIO
 
             Console.WriteLine();
 
-            string path =
-                @"C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session017_FileIO\Extra Files";
+            //string path =
+                //@"C:\Users\Kat Mem\Documents\Visual Studio 2017\Projects\CSharp Beginner\Session001_FirstSteps\Session017_FileIO\Extra Files";
+
+            string path = string.Concat(
+                new DirectoryInfo(".").Parent.Parent.FullName, @"\Extra Files"
+                );
 
             DirectoryInfo myDir = new
                 DirectoryInfo(path);
@@ -63,15 +70,27 @@ namespace Session017_FileIO
 
             //CREATE AND DELETE DIRECTORY
 
+            //manipulate directory full name
+            string[] pathPiece = myDir.FullName.Split('\\');
+            string[] totalPath = new string[3];
+
+            Array.Copy(pathPiece, 0, totalPath, 0, 3);
+            
             //sample create
             DirectoryInfo dataDir =
-                new DirectoryInfo(@"C:\Users\Kat Mem\Documents\New Folder from code");
+                new DirectoryInfo(
+                    string.Concat(string.Join(@"\", totalPath), @"\Documents\New Folder from code")
+                    );
 
             dataDir.Create();
 
             //sample delete
             dataDir.Delete(true);
 
+            #endregion
+
+
+            #region FILE I/O
             //FILE READING AND WRITING
 
             //write a string array to a text file
@@ -134,6 +153,9 @@ namespace Session017_FileIO
             }
             Console.WriteLine();
 
+            #endregion
+
+            #region Playing With Bytes
             //FILESTREAMS
 
             //filestreams are used to read and write a byte
@@ -180,6 +202,7 @@ namespace Session017_FileIO
             fs.Position = 0;
 
             //=====reading======
+
             Console.WriteLine();
 
             //create byte array to hold data
@@ -200,6 +223,142 @@ namespace Session017_FileIO
             Console.WriteLine();
 
             fs.Close();
+
+            #endregion
+
+            #region StreamWriter and StreamReader
+
+            //STREAMWRITER / STREAMREADER
+            //best for reading and writing strings
+
+            string textFilePath3 =
+                string.Concat(myDir, @"\testFile3.txt");
+
+            //create a text file
+            StreamWriter sw = File.CreateText(textFilePath3);
+
+            //streamwriters are like portals for file or other actions
+
+            sw.Write("This is a random ");
+            sw.WriteLine("sentence!");
+            sw.WriteLine("This is another one");
+
+            //close streamwriter
+            sw.Close();
+
+            //open file for reading
+            StreamReader sr =
+                File.OpenText(textFilePath3);
+
+            //peek return next char as unicode number.
+            //use convert to change to a char
+            Console.WriteLine("Peek: {0}", 
+                Convert.ToChar(sr.Peek()));
+
+            //read
+            Console.WriteLine("1st char: {0}",
+                sr.Read());
+
+            //read the rest
+            Console.WriteLine("Everything else: {0}",
+                sr.ReadToEnd());
+
+            sr.Close();
+
+            Console.WriteLine();
+
+            //append the file
+            StreamWriter sw2 = File.AppendText(textFilePath3);
+
+            sw2.Write("Hey I am ");
+            sw2.WriteLine("appending this text file ;)");
+
+            sw2.Close();
+
+            //read again
+            Console.WriteLine("Appended stream: ");
+            StreamReader sr2 = File.OpenText(textFilePath3);
+
+            Console.WriteLine(sr2.ReadToEnd());
+
+            sr2.Close();
+
+            //Console.WriteLine(myDir.FullName);
+
+            #endregion
+
+            #region BinaryWriter and BinaryReader
+
+            //BINARYWRITER / BINARYREADER
+            //used to read and write data types
+
+            //file type is dat
+            string textFilePath4 =
+                string.Concat(myDir, @"\testFile4.dat");
+
+            //get file
+            FileInfo datFile = new FileInfo(textFilePath4);
+
+            //open file
+            BinaryWriter bw =
+                new BinaryWriter(datFile.OpenWrite());
+
+            //data to save to the file
+            string randText = "Random text";
+            int myAge = 19;
+            double height = 5.2;
+
+            //write data to file
+            bw.Write(randText);
+            bw.Write(myAge);
+            bw.Write(height);
+            bw.Write("Sample");
+
+            //close
+            bw.Close();
+
+            //read
+
+            //open file for reading this time
+            BinaryReader br =
+                new BinaryReader(datFile.OpenRead());
+
+            //output data
+
+            //data should be read in the order
+            //they were written
+            Console.WriteLine(br.ReadString());
+            Console.WriteLine(br.ReadInt32());
+            Console.WriteLine(br.ReadDouble());
+            Console.WriteLine(br.ReadString());
+
+            br.Close();
+
+            Console.WriteLine();
+
+            //append the file
+
+            BinaryWriter bw2 =
+                new BinaryWriter(datFile.Open(FileMode.Open));
+
+            bw2.Write(10001);
+            bw2.Write("Space Odyssey");
+
+            bw2.Close();
+
+            //read again
+            BinaryReader br2 =
+                new BinaryReader(datFile.OpenRead());
+
+            //reads only the appended item
+            Console.WriteLine(br2.ReadString());
+
+            //custom data types will be covered by serialization
+            //next session
+
+            br2.Close();
+
+            #endregion
             
             Console.ReadLine();
 
